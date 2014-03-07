@@ -1,6 +1,6 @@
 # This file, apart from implementing a network formation model, also demonstrates the use of a Black Box optimization technique 
 # implemented via Pybrain (pybrain.org)
-
+#Note that module.py needs to be imported in order to run this
 
 from  __future__ import division
 import module
